@@ -2,7 +2,7 @@
 #### Design and Data
 ![Design and Data](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Welcome again, There is quite a lot of info to unpack but I'll stick to my strengths. I am an aspiring full-stack dev with knowledge of How to (code simple Data) and am currently studying responsive (web design..)
+Welcome again, There is quite a lot of info to unpack but I'll stick to my strengths. I am an aspiring full-stack dev with knowledge of How to (**code simple Data**) and am currently studying responsive (*web design..*)
 
 
 
